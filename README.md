@@ -6,4 +6,4 @@ https://santiago-gr.github.io/DesafioFinal/#home
 https://github.com/Santiago-gr/desafio_iguana
 
 #fork a proyecto de Darwin Molina
-https://github.com/Santiago-gr/cv/blob/main/assets/index.html
+https://github.com/Santiago-gr/cv
